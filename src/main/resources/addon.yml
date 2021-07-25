@@ -1,0 +1,11 @@
+#
+# If you require anymore information about creating a addon
+# Please contact Greazi on the Tech's Code support discord server
+#
+#
+# The name of the addon
+name: Addon Name
+# The version of the addon (Always keep the version to its releases and always 3 numbers seperated with a; .
+version: 1.0.0
+# Your name as the author of the addon
+author: Greazi

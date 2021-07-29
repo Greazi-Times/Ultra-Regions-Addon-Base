@@ -84,7 +84,7 @@ public class FlagName extends Flag {
 	public void onInteract(PlayerInteractEvent e) {
 
 		/*
-		 * This is a example of a check. In this case we are blocking the open Container event.
+		 * This is an example of a check. In this case we are blocking the open Container event.
 		 * So our end result will be when disallowed you are unable to open a container.
 		 */
 		if (e.getPlayer() instanceof Player) {
